@@ -2,7 +2,7 @@
   <div class="register">
     <b-row>
       <b-col>
-        <h2>Birthay Tracker</h2>
+        <h2>Birthday Tracker</h2>
       </b-col>
     </b-row>
     <b-row>
